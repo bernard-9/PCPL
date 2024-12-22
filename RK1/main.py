@@ -41,8 +41,7 @@ disks_in_libraries = [
     Disks_in_libraries(3, 4),
     Disks_in_libraries(3, 5),
 
-    Disks_in_libraries(4, 4),
-    Disks_in_libraries(5, 4)
+    Disks_in_libraries(4, 4)
 ]
 
 def main():
